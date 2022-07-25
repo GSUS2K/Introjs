@@ -1,0 +1,11 @@
+
+.TT2 *
+{
+  color:turquoise;
+  font-size: 18px;
+}
+
+.TT2 .introjs-tooltip-title 
+{
+  color: red;
+}

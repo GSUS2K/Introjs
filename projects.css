@@ -1,0 +1,100 @@
+ 
+body
+{
+  /* background-color: black; */
+  margin: 0px;
+}
+
+  aside
+  {
+    float: left;
+    background-color: salmon;
+    color: darkcyan;
+    height: 1725px;
+    width: 200px;
+    position: fixed;
+  }
+
+  section
+  {
+    margin-left: 200px;
+  }
+
+  li a {
+    display: grid;
+    color: black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    /* border: 3px;
+    border-style: dotted;
+    border-color: azure; */
+  }
+
+  .Ather, .Vestas, .Ola, .Top
+  {
+    margin-top: 100px;
+  }
+
+  ul
+{
+    list-style-type: none;
+}
+
+article
+{
+    background-color: antiquewhite;
+    color: black;
+    height: 500px;
+    margin-top: 25px;
+}
+
+
+
+header
+{
+    color: blueviolet;
+}
+
+.proj
+{
+    font-size: 30px;
+    text-align: center;
+    margin-left: 200px;
+}
+
+
+.Home, .Contac, .About
+{
+    display: grid;
+    float: left;
+    color: green;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+
+
+.Top-Container
+{
+    height: 100px;
+    background-color: deepskyblue;
+}
+
+.proj
+{
+    background-color: orange;
+    color:midnightblue;
+}
+
+
+.TT3 *
+{
+  color:turquoise;
+  font-size: 18px;
+}
+
+.TT3 .introjs-tooltip-title 
+{
+  color: red;
+}
+

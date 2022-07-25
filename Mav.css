@@ -1,0 +1,53 @@
+header
+{
+    display: grid;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+li {
+    float: left;
+  }
+
+  li a {
+    display: grid;
+    color: black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  .customTooltip * {
+    color: darkturquoise;
+    font-size: 18px
+  }
+  
+  .customTooltip .introjs-tooltip-title {
+    color: red;
+  }
+
+  
+button
+{
+    margin-left: 900px;
+}
+
+
+.TT2 *
+{
+  color:turquoise;
+  font-size: 18px;
+}
+
+.TT2 .introjs-tooltip-title 
+{
+  color: red;
+}
+
+/* #Tour
+{
+  display: none;
+} */
